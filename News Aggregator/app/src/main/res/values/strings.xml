@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">News Gateway</string>
+    <string name="no_connection">No internet connection</string>
+    <string name="topics">Topics</string>
+    <string name="languages">Languages</string>
+    <string name="countries">Countries</string>
+    <string name="all">all</string>
+    <string name="sources_drawer">Sources drawer</string>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+    <string name="article_image">Article image</string>
+    <string name="selected_category">selectedCategory</string>
+    <string name="selected_language">selectedLanguage</string>
+    <string name="selected_country">selectedCountry</string>
+    <string name="categories">Categories</string>
+    <string name="sources">Sources</string>
+    <string name="articles">articles</string>
+    <string name="current_article">currentArticle</string>
+    <string name="selected_source">selectedSource</string>
+    <string name="colors">colors</string>
+    <string name="no_articles">No articles found for %s</string>
+    <string name="error_countries">Error fetching countries</string>
+    <string name="error_languages">Error fetching languages</string>
+    <string name="error_sources">Sources could not be fetched</string>
+    <string name="error_articles">Articles could not be fetched</string>
+</resources>

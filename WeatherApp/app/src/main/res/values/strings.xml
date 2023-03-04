@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="sample_date_time">Sun Aug 21 11:54 AM, 2022</string>
+    <string name="sample_temperature">73°F</string>
+    <string name="sample_min_max_temperature">73°F/83°F</string>
+    <string name="sample_substr_temperature">Feels like 73°F</string>
+    <string name="partially_cloudy">Overcast (100% clouds)</string>
+    <string name="overcast">Overcast</string>
+    <string name="sample_wind_dir">Winds: NE at 11 mph gusting to 10 mph</string>
+    <string name="sample_humidity">Humidity: 82%</string>
+    <string name="sample_uv_index">UV Index: 2</string>
+    <string name="sample_visibility">Visibility: 9.9 mi</string>
+    <string name="morning">Morning</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="evening">Evening</string>
+    <string name="night">Night</string>
+    <string name="sample_sunrise">Sunrise: 6:04 AM</string>
+    <string name="sample_sunset">Sunset: 7:21 PM</string>
+    <string name="today">Today</string>
+    <string name="sample_time">1:00 PM</string>
+    <string name="_8am">8am</string>
+    <string name="_1pm">1pm</string>
+    <string name="_5pm">5pm</string>
+    <string name="_11pm">11pm</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="sunday_8_21">Sunday, 8/21</string>
+    <string name="_100_preci">(100% preci.)</string>
+    <string name="weather_icon">Weather Icon</string>
+    <string name="change_unit">Change Unit</string>
+    <string name="daily_weather">Daily Weather</string>
+    <string name="change_location">Change Location</string>
+</resources>
